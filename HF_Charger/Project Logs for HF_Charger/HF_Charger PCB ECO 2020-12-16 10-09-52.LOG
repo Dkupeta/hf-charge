@@ -1,0 +1,30 @@
+Removed Pin From Net: NetName=+5 Pin=C15-1
+Removed Pin From Net: NetName=+5 Pin=C16-2
+Removed Pin From Net: NetName=+5 Pin=C17-2
+Removed Pin From Net: NetName=+5 Pin=C18-2
+Removed Pin From Net: NetName=+3V3 Pin=C19-1
+Removed Pin From Net: NetName=+3V3 Pin=C20-2
+Removed Pin From Net: NetName=+3V3 Pin=C21-2
+Removed Pin From Net: NetName=+3V3 Pin=C22-2
+Removed Pin From Net: NetName=+5 Pin=D11-2
+Removed Pin From Net: NetName=+3V3 Pin=L4-2
+Removed Pin From Net: NetName=+5 Pin=L6-2
+Removed Pin From Net: NetName=+3V3D Pin=R3-2
+Change Net Name : Old Net Name=+3V3D New Net Name=D+3V3
+Change Net Name : Old Net Name=+5 New Net Name=D+5
+Added Pin To Net: NetName=+3V3D Pin=R3-2
+Added Net: Name=+3V3D
+Added Pin To Net: NetName=+5 Pin=D11-2
+Added Net: Name=+5
+Added Pin To Net: NetName=LEM+5 Pin=C15-1
+Added Pin To Net: NetName=LEM+5 Pin=C16-2
+Added Pin To Net: NetName=LEM+5 Pin=C17-2
+Added Pin To Net: NetName=LEM+5 Pin=C18-2
+Added Pin To Net: NetName=LEM+5 Pin=L6-2
+Added Net: Name=LEM+5
+Added Pin To Net: NetName=W+3V3 Pin=C19-1
+Added Pin To Net: NetName=W+3V3 Pin=C20-2
+Added Pin To Net: NetName=W+3V3 Pin=C21-2
+Added Pin To Net: NetName=W+3V3 Pin=C22-2
+Added Pin To Net: NetName=W+3V3 Pin=L4-2
+Added Net: Name=W+3V3
