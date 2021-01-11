@@ -1,2 +1,2 @@
 # hf-charge
-PCB desing for a HF Charger
+PCB design for a HF Charger
